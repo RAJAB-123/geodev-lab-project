@@ -1,10 +1,51 @@
-# geodev-lab-project
-Mapping flood risks and affected communities and facilities in Dar es Salaam 
+# Dar es salaam Flood Risk Project
 
-# My GeoDev Lab Africa project
-Which areas have effected with flooding in Dar es Salaam city and how many settlements and amenities are located within the effected areas?
+## Project Description
 
-Built over twelve months with GeoDev Lab Africa, Cohort One.
-See project-brief.md for the full brief.
+This project focuses on developing a flood-risk and community-amenities mapping in Dar es Salaam, Tanzania.
 
-  
+## Study Area
+
+Dar es Salaam, Tanzania.
+
+## Data
+
+The project uses spatial data from real sources, including OpenStreetMap data downloaded using QuickOSM.
+
+Main datasets:
+
+-Dar es Salaam boundary
+- Dar es Salaam wards boundary
+- Buildings
+- Roads
+- Amenities
+
+## Software and tools
+
+- QGIS
+- QuickOSM
+- GitHub
+
+## Project Structure
+
+Dar es salaam_flood_risk/
+│
+├── data/
+│   ├── raw/
+│   │   ├── Dar es salaam.gpkg
+│   │   ├── buildings.gpkg
+│   │   ├── Dar es salaam GeoTiff
+        ├── tabata_boundary.gpkg
+        ├──Highway.gpkg
+│   │   └── amenities.gpkg
+│   │
+│   └── processed/         
+│
+├── qgis/
+│   └── Dar es salaam_flood_risk/
+│
+├── data-notes.md
+└── README.md
+
+## For more detailed information about data set 
+[data-notes](data-notes)
