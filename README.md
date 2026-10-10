@@ -31,4 +31,6 @@ Main datasets:
 
 Week 5: set up Python, VS Code and the terminal. hello.py runs.
 
+week 6: set up project with UV and added pandas. check.py prints pandas version.
+
 
