@@ -33,4 +33,6 @@ Week 5: set up Python, VS Code and the terminal. hello.py runs.
 
 week 6: set up project with UV and added pandas. check.py prints pandas version.
 
+week 7: analyse.py reads wards.csv, convert each area and classified each ward.
+
 
