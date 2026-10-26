@@ -35,4 +35,8 @@ week 6: set up project with UV and added pandas. check.py prints pandas version.
 
 week 7: analyse.py reads wards.csv, convert each area and classified each ward.
 
+week 8: inspect_data.py summarises depth and yield in my Dar_es_salaam data.
+
+
+
 
