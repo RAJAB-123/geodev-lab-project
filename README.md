@@ -37,6 +37,16 @@ week 7: analyse.py reads wards.csv, convert each area and classified each ward.
 
 week 8: inspect_data.py summarises depth and yield in my Dar_es_salaam data.
 
+### Week 9: Python Functions and Dataset Summary
+- Refactored Week 8 code into reusable functions.
+- Created `read_rows()`, `clean_values()`, `summarise()` and `summarise_all()`.
+- Analysed `Dar_es_salaam.csv` using `area_km2` and `Population`.
+- Generated count, smallest, largest and average statistics.
+
+### Month 2 Reflection
+This month, I finally understood how Python functions, loops and dictionaries work together to process data. I am still improving my understanding of handling and cleaning CSV data. Now I can use Python to inspect and analyse GIS data more efficiently.
+
+
 
 
 
