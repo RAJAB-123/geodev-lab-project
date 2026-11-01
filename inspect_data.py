@@ -15,4 +15,6 @@ def inspect_column(Dar_es_salaam, column):
         "count": len(values),
     }
 area_result = inspect_column("Dar_es_salaam.csv", "area_km2")
+pop_result = inspect_column("Dar_es_salaam.csv", "Population")
 print("Area:", area_result)
+print("Population:", pop_result)
