@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "geopandas>=1.2.0",
     "pandas>=3.0.6",
+    "pyproj>=3.8.0",
 ]
 
 [project.scripts]
