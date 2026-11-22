@@ -1,0 +1,8 @@
+fid,Region_Cod,Region_Nam,District_C,District_N,Ward_Code,Ward_Name,Division,SHAPE_Leng,SHAPE_Area
+1,"07",Dar-es-salaam,"01",Kinondoni,"092",Kigogo,,0.08251745387,0.00015597567
+2,"07",Dar-es-salaam,"01",Kinondoni,"202",Mburahati,,0.05440962272,9.112615e-05
+3,"07",Dar-es-salaam,"02",Ilala,"042",Tabata,,0.10513139074,0.00036342656
+4,"07",Dar-es-salaam,"02",Ilala,"082",Vingunguti,,0.09787186334,0.0003669721
+5,"07",Dar-es-salaam,"02",Ilala,"102",Buguruni,,0.0706368982,0.00028246432
+6,"07",Dar-es-salaam,"02",Ilala,"202",Segerea,,0.14224780663,0.00079041179
+7,"07",Dar-es-salaam,"02",Ilala,"262",Kimanga,,0.16681087567,0.00076246473
