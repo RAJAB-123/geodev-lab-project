@@ -48,11 +48,11 @@ This month, I finally understood how Python functions, loops and dictionaries wo
 
 ## Month 3: Geospatial Python and automation
 
-# Week 10: GeoPandas. Loaded, checked, joined and mapped my wards layer in code.
+### Week 10: GeoPandas. Loaded, checked, joined and mapped my wards layer in code.
 
-# week 11: CRS and spatial operations.
+### week 11: CRS and spatial operations.
 
-# week 12:  Rasters.
+### week 12:  Rasters.
 
 
 
