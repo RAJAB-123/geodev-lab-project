@@ -46,6 +46,9 @@ week 8: inspect_data.py summarises depth and yield in my Dar_es_salaam data.
 ### Month 2 Reflection
 This month, I finally understood how Python functions, loops and dictionaries work together to process data. I am still improving my understanding of handling and cleaning CSV data. Now I can use Python to inspect and analyse GIS data more efficiently.
 
+## Month 3: Geospatial Python and automation
+
+
 
 
 
